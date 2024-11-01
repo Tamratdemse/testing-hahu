@@ -6,4 +6,4 @@ app.get("/", (req, res) => {
   res.send("Hello Wordld!");
 });
 
-app.listen(3000);
+app.listen();
